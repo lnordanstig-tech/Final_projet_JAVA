@@ -67,7 +67,7 @@ be positive whole numbers; vacant quantity will give one item.
 | `help` | Show instructions and shop prices. |
 | `quit` | End the game. Progress is not saved. |
 
-Only `next` advances time. Water crops and feed animals before using it; harvest
+`next` advances time. Water crops and feed animals before using it; harvest
 and sell when products are ready. Victory is checked when a day ends. Reach the
 gold goal before your final `next`, which ends day 60.
 
