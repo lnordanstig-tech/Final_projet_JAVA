@@ -27,7 +27,7 @@ two mandrake, two carrot, one pumpkin, and one gillyweed. There are six animal s
 
 Requires **JDK 17 or newer**. No external libraries are needed.
 
-Start with writing git clone https://github.com/lnordanstig-tech/Final_projet_JAVA.git in your terminal. 
+Start with writing "git clone https://github.com/lnordanstig-tech/Final_projet_JAVA.git" in your terminal. 
 
 **macOS / Linux:** Run these commands from the folder containing `src`:
 
