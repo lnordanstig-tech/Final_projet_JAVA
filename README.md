@@ -51,7 +51,7 @@ java -cp out farm.Main
 ## Commands
 
 Commands and item names ignore letter case. Plots are numbered 1–6. Quantities must
-be positive whole numbers; omitting a quantity means one item.
+be positive whole numbers; vacant quantity will give one item.
 
 | Command | Effect |
 | --- | --- |
